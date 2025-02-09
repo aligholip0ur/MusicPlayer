@@ -33,7 +33,7 @@ const songs = [
     displayName: "Badaaa2",
     artist: "Ebi Aali",
     cover:
-      "images/1-3-750x405.jpg",
+      "images/1900x1900-000000-80-0-0.jpg",
   },
   {
     path:
@@ -41,7 +41,7 @@ const songs = [
     displayName: "Sokoot",
     artist: "Mohsen",
     cover:
-      "images/1-3-750x405.jpg",
+      "images/Mohsen Yeganeh - KhodKhah.jpg",
   },
 ];
 

@@ -92,7 +92,7 @@ h3 {
 
 /* Progress */
 .progress-container {
-  background: #fff;
+  background: #ffffff;
   border-radius: 5px;
   cursor: pointer;
   margin: 40px 20px;
@@ -101,7 +101,7 @@ h3 {
 }
 
 .progress {
-  background: #242323;
+  background: #1a1919;
   border-radius: 5px;
   height: 100%;
   width: 0%;
